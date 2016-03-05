@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  国际化
+
+  Created by czljcb on 16/3/5.
+  Copyright © 2016年 czljcb. All rights reserved.
+*/
+CFBundleName = "曹志";
+
+CFBundleDisplayName = "曹志";
